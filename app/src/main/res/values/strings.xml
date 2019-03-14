@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_bundle</string>
+    <string name="naprzod">Naprzod?</string>
+    <string name="powrot">Powrot?</string>
+</resources>
